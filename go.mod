@@ -1,3 +1,3 @@
-module https://github.com/SyaibanAhmadRamadhan/go-null
+module github.com/SyaibanAhmadRamadhan/go-null
 
 go 1.21
